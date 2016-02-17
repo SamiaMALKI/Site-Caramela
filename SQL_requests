@@ -1,0 +1,3 @@
+/*SELECT BY MARQUE */
+
+SELECT * FROM `produit` WHERE id_marque = 1
